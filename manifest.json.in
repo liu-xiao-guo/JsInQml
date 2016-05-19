@@ -1,0 +1,17 @@
+{
+    "name": "jsinqml.liu-xiao-guo",
+    "description": "description of JsInQml",
+    "architecture": "@CLICK_ARCH@",
+    "title": "JsInQml",
+    "hooks": {
+        "JsInQml": {
+            "apparmor": "JsInQml/JsInQml.apparmor",
+            "desktop":  "JsInQml/JsInQml.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

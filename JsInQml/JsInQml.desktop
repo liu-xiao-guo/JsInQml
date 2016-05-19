@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=JsInQml
+Exec=qmlscene %U JsInQml/Main.qml
+Icon=JsInQml/JsInQml.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
